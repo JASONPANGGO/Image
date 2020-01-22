@@ -1,0 +1,23 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "图片组件",
+  "main": "Image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JASONPANGGO/Image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JASONPANGGO/Image/issues"
+  },
+  "homepage": "https://github.com/JASONPANGGO/Image#readme",
+  "dependencies": {
+    "antd": "^3.26.7",
+    "react": "^16.12.0"
+  }
+}
